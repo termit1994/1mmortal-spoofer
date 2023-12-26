@@ -9,11 +9,11 @@ BattleE
 E        
 R6:Siege       
 Unturne     
-Arm 
+Arm
 Easy Anti-ch
 A  
 Ru 
-SCU   
+SCU    
 Dead by Dayligh
 Enlisted
 Fortnite
