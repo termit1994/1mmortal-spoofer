@@ -10,8 +10,8 @@ E
 R6:Siege     
 Unturne        
 A  
-Easy Anti
-A   
+Easy Ant
+A    
  
 SCU    
 Dead by Dayligh 
