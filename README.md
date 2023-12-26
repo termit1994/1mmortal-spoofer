@@ -9,11 +9,11 @@ BattleE
 E           
 R6:Siege       
 Unturne      
-Easy A    
+Easy A     
 A    
 SCU 
 Dead by Dayligh 
-Enlisted 
+Enlisted
 Fortnit
 
 
