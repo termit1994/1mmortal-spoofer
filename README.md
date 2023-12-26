@@ -9,11 +9,11 @@
 BattleEye:    
    
 
-E 
+E  
 R6:Siege    
 Unturne 
 Arma 3 
-Fortnite
+Fortnit
 
 Easy Anti-cheat:
 
