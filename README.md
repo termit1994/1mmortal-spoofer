@@ -8,10 +8,10 @@
 BattleEye: 
 
 E    
-R6:Siege       
+R6:Siege        
 Unturne  
 Arm    
-Fo
+F
 
 Easy Anti-cheat
  
