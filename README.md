@@ -9,8 +9,8 @@ BattleE
 E         
 R6:Siege      
 Unturne    
-Arm
-Easy Anti-ch 
+Ar
+Easy Anti-ch  
 A  
 Ru 
 SCU    
