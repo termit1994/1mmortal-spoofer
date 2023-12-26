@@ -12,8 +12,8 @@ R6:Siege
 Unturne    
 Arma
 Fort
-
-Easy Anti-cheat:
+ 
+Easy Anti-cheat
 
 Apex
 Rust
