@@ -8,12 +8,12 @@
  
 BattleEye:    
    
-PU
+P
 E
 
 R6:Siege   
 Unturne 
-Arma 3
+Arma 3 
 Fortnite
 
 Easy Anti-cheat:
