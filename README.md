@@ -7,12 +7,12 @@
 ## Work in games 
 BattleE 
 E      
-R6:Siege      
+R6:Siege       
 Unturne    
 Arm    
 Easy Anti-che 
 A 
-Ru 
+Ru
 SCU   
 Dead by Dayligh 
 Enlisted
