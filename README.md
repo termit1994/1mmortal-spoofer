@@ -9,10 +9,10 @@ BattleE
 E         
 R6:Siege     
 Unturne        
-A  
+A   
 Easy Ant
 A    
- 
+
 SCU    
 Dead by Dayligh 
 Enlisted
