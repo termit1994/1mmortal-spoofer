@@ -5,12 +5,12 @@
 ## Showcase
 ![immortal_322_hM574sNMraQMiMRaGnmZ](https://github.com/NIcecz/hwid-spooe/assets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in games 
-BattleE 
+BattleE  
 E      
 R6:Siege       
 Unturne     
 Arm  
-Easy Anti-che
+Easy Anti-ch
 A    
 Ru
 SCU   
