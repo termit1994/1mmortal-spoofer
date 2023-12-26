@@ -12,8 +12,8 @@ Unturne
 A
 Easy Anti-ch
 A  
-Ru 
-SCU    
+Ru
+SCU     
 Dead by Dayligh
 Enlisted
 Fortnite
