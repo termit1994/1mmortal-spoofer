@@ -7,11 +7,11 @@
 ## Work in games    
 BattleE    
 E     
-R6:Siege     
+R6:Siege    
 Unturne         
 Easy A         
 A     
-SCU     
+SCU      
 Dead by Dayli
 Enliste
 Fortni
