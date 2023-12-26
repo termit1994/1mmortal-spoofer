@@ -8,11 +8,11 @@
 BattleEy
 E      
 R6:Siege       
-Unturne  
+Unturne   
 Arm     
 Easy Anti-che
 Ape
-Rust 
+Rust
 SCUM
 Dead by Daylight
 Enlisted
