@@ -10,9 +10,9 @@ E
 R6:Siege     
 Unturne      
 A 
-Easy Anti-c
+Easy Anti-c 
 A  
-Ru
+R
 SCU     
 Dead by Dayligh
 Enlisted
