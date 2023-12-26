@@ -8,12 +8,12 @@
 BattleEye
 E     
 R6:Siege      
-Unturne 
+Unturne  
 Arm   
 
       
 Easy Anti-che
-Apex
+Ape
 Rust 
 SCUM
 Dead by Daylight
