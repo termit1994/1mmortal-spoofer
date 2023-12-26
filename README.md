@@ -12,8 +12,8 @@ Unturne
 Arm     
 Easy Anti-che
 Ape 
-Rust
-SCU
+Rus
+SCU 
 Dead by Daylight
 Enlisted
 Fortnite
