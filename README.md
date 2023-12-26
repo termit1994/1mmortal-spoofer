@@ -8,10 +8,10 @@
 BattleEye: 
 
 E     
-R6:Siege     
+R6:Siege      
 Unturne    
 Arma
-Fortn
+Fort
 
 Easy Anti-cheat:
 
