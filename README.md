@@ -9,10 +9,10 @@ BattleE
 E      
 R6:Siege       
 Unturne     
-Arm  
+Arm 
 Easy Anti-ch
 A    
-Ru
+Ru 
 SCU   
 Dead by Dayligh
 Enlisted
