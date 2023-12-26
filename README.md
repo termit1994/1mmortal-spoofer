@@ -7,12 +7,12 @@
 ## Work in games  
 BattleE    
 E       
-R6:Siege     
+R6:Siege    
 Unturne      
 A    
 Easy An
 A        
-SCU    
+SCU     
 Dead by Dayligh 
 Enlisted
 Fortnite
