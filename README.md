@@ -12,9 +12,9 @@ Unturne
 Arm 
  
      
-Easy Anti-chea  
+Easy Anti-chea 
 Apex
-Rust
+Rust 
 SCUM
 Dead by Daylight
 Enlisted
