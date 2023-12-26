@@ -8,11 +8,11 @@
 BattleE    
 E       
 R6:Siege    
-Unturne          
+Unturne         
 Easy A          
 A 
 SCU      
-Dead by Daylig
+Dead by Daylig 
 Enliste
 Fortni
 
