@@ -11,8 +11,8 @@ R6:Siege
 Unturne     
 Arm   
 Easy Anti-che 
-Ap
-Ru 
+A
+Ru  
 SCU   
 Dead by Dayligh 
 Enlisted
