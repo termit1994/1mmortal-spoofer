@@ -10,8 +10,8 @@ E
 R6:Siege     
 Unturne    
 
-Easy A   
-A     
+Easy A    
+A    
 SCU  
 Dead by Dayligh 
 Enlisted 
