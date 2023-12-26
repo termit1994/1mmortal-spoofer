@@ -11,9 +11,9 @@ R6:Siege
 Unturne   
 Arm     
 Easy Anti-che
-Ape
+Ape 
 Rust
-SCUM
+SCU
 Dead by Daylight
 Enlisted
 Fortnite
