@@ -7,12 +7,12 @@
 ## Work in games 
 BattleEye
 E     
-R6:Siege        
+R6:Siege       
 Unturne    
 Arm
  
    
-Easy Anti-chea
+Easy Anti-chea 
   
 Apex
 Rust
