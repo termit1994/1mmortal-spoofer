@@ -8,9 +8,9 @@
 BattleE   
 E         
 R6:Siege   
-Unturne       
+Unturne      
 A    
-Easy A  
+Easy A   
 A     
 SCU    
 Dead by Dayligh 
