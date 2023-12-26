@@ -7,10 +7,10 @@
 ## Work in games 
 BattleE 
 E      
-R6:Siege      
+R6:Siege       
 Unturne     
 Arm  
-Easy Anti-che 
+Easy Anti-che
 A    
 Ru
 SCU   
