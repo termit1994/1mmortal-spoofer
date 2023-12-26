@@ -9,8 +9,8 @@ BattleE
 E         
 R6:Siege   
 Unturne     
-A   
-Easy A  
+A  
+Easy A   
 A      
 SCU    
 Dead by Dayligh 
