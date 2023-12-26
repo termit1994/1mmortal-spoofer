@@ -9,12 +9,12 @@ BattleE
 E      
 R6:Siege       
 Unturne   
-Arm      
+Arm       
 Easy Anti-che
 Ape 
 Rus
 SCU 
-Dead by Daylight
+Dead by Dayligh
 Enlisted
 Fortnite
 
