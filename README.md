@@ -11,9 +11,9 @@ R6:Siege
 Unturne          
 Easy A         
 A 
-SCU    
+SCU     
 Dead by Daylig
-Enlisted
+Enliste
 Fortnit
 
 
