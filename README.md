@@ -7,14 +7,14 @@
 ## Work in games 
 BattleEye: 
 
-E     
+E    
 R6:Siege      
 Unturne     
 Arm
 Fort
  
 Easy Anti-cheat
-
+ 
 Apex
 Rust
 SCUM
