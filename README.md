@@ -10,9 +10,9 @@ BattleEye:
  
 PUB
 EF
-DayZ
+DayZ 
 R6:Siege 
-Unturned
+Unturne
 Arma 3
 Fortnite
 
