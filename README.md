@@ -7,10 +7,10 @@
 ## Work in games    
 BattleE      
 E          
-R6:Siege      
+R6:Siege     
 Unturne    
 
-Easy A  
+Easy A   
 A      
 SCU   
 Dead by Dayligh 
