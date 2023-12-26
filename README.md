@@ -4,7 +4,7 @@
 
 ## Showcase
 ![immortal_322_hM574sNMraQMiMRaGnmZ](https://github.com/NIcecz/hwid-spooe/assets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
-## Work in games 
+## Work in games  
 BattleE    
 E        
 R6:Siege     
@@ -12,7 +12,7 @@ Unturne
 A    
 Easy An 
 A     
-SCU    
+SCU   
 Dead by Dayligh 
 Enlisted
 Fortnite
