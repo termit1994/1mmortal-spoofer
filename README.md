@@ -11,8 +11,8 @@ R6:Siege
 Unturne        
 A   
 Easy A  
-A      
-SCU   
+A     
+SCU    
 Dead by Dayligh 
 Enlisted 
 Fortnite
