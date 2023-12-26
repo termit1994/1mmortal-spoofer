@@ -10,9 +10,9 @@ E
 R6:Siege    
 Unturne         
 Easy A          
-A 
+A  
 SCU      
-Dead by Daylig 
+Dead by Daylig
 Enliste
 Fortni
 
