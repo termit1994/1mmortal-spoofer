@@ -11,10 +11,10 @@ R6:Siege
 Unturne    
 Arm    
 Easy Anti-che 
-Ape 
+Ape
 Ru 
 SCU   
-Dead by Dayligh
+Dead by Dayligh 
 Enlisted
 Fortnite
 
