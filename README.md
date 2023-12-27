@@ -9,9 +9,9 @@ BattleE
 E      
 R6:Siege     
 Unturne         
-Easy A         
+Easy A          
 A     
-SCU     
+SCU    
 Dead by Dayl
 Enliste
 Fortni
