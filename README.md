@@ -8,8 +8,8 @@
 BattleE     
 E     
 R6:Siege      
-Unturne   
-Easy A            
+Unturne    
+Easy A           
 A     
 SCU          
 Dead by Da
